@@ -1,8 +1,33 @@
 header {
-    background-color: azure;
+    background-color: gray;
 }
 
 .info h2 {
     background-color: bisque;
     color: red;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
 }
+
+.info2 h3 {
+    background-color: bisque;
+    color: red;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.lightning {
+    margin-left: 155px;
+    
+    
+    
+}
+
+ .border {
+    border: 2px solid white;
+    margin: 30px 420px 30px 420px
+    
+ }
+
